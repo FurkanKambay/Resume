@@ -1,0 +1,15 @@
+{
+	"Project": {
+		"scope": "asciidoc",
+		"prefix": "project",
+		"description": "A project in my custom format.",
+		"body": [
+			"",
+			"!${1:project link}[icon:github[] *${2:project name}*]",
+			"-- `${3:languages}` +",
+			"${4:project description}",
+			"!${5:date}",
+			"",
+		]
+	}
+}
