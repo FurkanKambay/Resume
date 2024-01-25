@@ -1,0 +1,4 @@
+icon:cube[fw] https://app.hackthebox.com/profile/122166[*Hack The Box* icon:link[]]
+-- `Penetration Testing` {vbar} icon:linux[] `Linux` {vbar} icon:windows[] `Windows` +
+I have rooted 14 machines and completed 9 challenges. I participated in the Hack The Box Season 2 "Hackers Clash" and achieved the Silver Tier.
+!2020–

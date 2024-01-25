@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/FurkanKambay/Uni-Mario-Clone[*Uni Mario Clone* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} icon:unity[] `Unity` +
+I practiced even-driven programming in this Mario clone in Unity for my 3D Game Basics course at Keimyung University during my exchange study.
+!2023

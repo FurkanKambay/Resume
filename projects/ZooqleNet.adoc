@@ -1,0 +1,5 @@
+icon:github[fw] https://github.com/FurkanKambay/Zooqle.Net[*Zooqle.Net* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} image:icons/dotnet.svg[dotnet,16] `.NET Standard` {vbar} `REST API` +
+I wrote an API wrapper library for searching for and filtering torrents on a website.
+
+!2018–2019

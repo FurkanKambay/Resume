@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/FurkanKambay/Auraxis.Net[*Auraxis.Net* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} image:icons/dotnet.svg[dotnet,16] `.NET Standard` {vbar} image:icons/python.svg[python,16] `Python` {vbar} `REST API` +
+I wrote a fluent .NET Standard library for PlanetSide 2's web API. I also wrote several utility scripts in Python in the `tools` directory on the icon:code-branch[] `models` branch.
+!2019–'20

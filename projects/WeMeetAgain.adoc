@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/FurkanKambay/WeMeetAgain[*We Meet Again* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} icon:unity[] `Unity` {vbar} icon:gamepad[] `Game Design` {vbar} icon:users[] `Teamwork` +
+My teammates and I developed a 3D puzzle game for the 3D Game Basics course at Keimyung University. My task was implementing the core gameplay. Working on this project has taught me about collaboration in game development.
+!2023

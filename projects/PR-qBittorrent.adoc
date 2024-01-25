@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/qbittorrent/qBittorrent/pull/9203[*OSS Contribution (ongoing PR)* icon:link[]]
+-- image:icons/cpp.svg[c-plus-plus,16] `C++` {vbar} image:icons/qt.svg[qt,16] `Qt` {vbar} icon:js[] `JavaScript` {vbar} icon:html5[] `HTML/CSS` +
+I am completely reworking and improving the existing bandwidth scheduler feature of qBittorrent, making it more advanced by implementing the core logic, the native & web UI, and the web API. I learned a lot about working on a large codebase, communicating with other developers, and solving large merge conflicts.
+!2018–

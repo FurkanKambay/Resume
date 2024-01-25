@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/FurkanKambay/ProjectTulip[*Project Tulip* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} icon:unity[] `Unity` {vbar} icon:gamepad[] `Game Design` {vbar} `HLSL` +
+I am working on my passion project, an open-world 2D platformer. I am constructing the core foundation for extensibility, and I am using the new Input System and UI Toolkit. I am also experimenting with compute shaders for procedural world generation.
+!2023–

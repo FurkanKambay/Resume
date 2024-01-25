@@ -1,0 +1,4 @@
+icon:github[fw] https://github.com/FurkanKambay/Treasure-Hunters[*Treasure Hunters* icon:link[]]
+-- image:icons/cs.svg[c-sharp,16] `C#` {vbar} icon:unity[] `Unity` {vbar} icon:gamepad[] `Game Design` {vbar} icon:users[] `Teamwork` +
+I developed the Unity replica of a board game that my teammates and I designed from scratch for the Game Design course at Mykolas Romeris University. The assignment has taught me a lot about teamwork in the context of game design and it was an opportunity for me to practice my Unity skills.
+!2022

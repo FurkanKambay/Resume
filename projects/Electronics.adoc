@@ -1,0 +1,4 @@
+icon:microchip[fw] *Electronics project*
+-- `Electronics` {vbar} image:icons/cs.svg[c-sharp,16] `C#` {vbar} `Lua` +
+I designed an ESP8266-based circuitry to remotely unlock a door, and wrote a Windows Phone app for communicating with it.
+!2016
