@@ -1,0 +1,101 @@
+:icons: font
+:pdf-theme: themes/resume-theme.yml
+:nofooter:
+
+= Furkan Kambay
+
+[.text-center]
+icon:gamepad[] Game Developer {vbar} icon:code[] Software Engineer
+
+[.text-center]
+icon:github[fw] https://github.com/FurkanKambay[GitHub] {vbar}
+icon:linkedin[fw] https://linkedin.com/in/FurkanKambay[LinkedIn] {vbar}
+icon:hackerrank[fw] https://www.hackerrank.com/profile/FurkanKambay[HackerRank] {vbar}
+icon:cube[fw] https://app.hackthebox.com/profile/122166[Hack The Box] {vbar}
+icon:stack-overflow[fw] https://stackoverflow.com/users/4187549/furkan-kambay[Stack Overflow] +
+icon:globe[fw] https://furkankambay.com[furkankambay.com] {vbar}
+icon:envelope[fw] email@example.com
+
+[frame=none,grid=rows]
+[cols=">a,.^7a"]
+|===
+
+
+|== Summary
+|Curious, passionate, versatile, and a quick learner. Excited to work on video games and software. +
+I have a keen interest, as well as educational background, in game design and programming. +
+I like teamwork and I believe in continuously improving myself by taking on new challenges. +
+// An English-Turkish translator/interpreter, and a beginner in penetration testing and electronics.
+
+
+|== Skills
+|[%hardbreaks]
+icon:hackerrank[]https://www.hackerrank.com/certificates/c398c25d5a20[C#], {cpp}, icon:hackerrank[]https://www.hackerrank.com/certificates/e60007ff5698[Python], icon:hackerrank[]https://www.hackerrank.com/certificates/3f09eec47b5b[JavaScript], TypeScript, HLSL/GLSL, XAML, HTML, CSS, PowerShell, Bash
+Unity, .NET, Git, WPF, Game Design, Qt, UWP, Entity Framework, Godot, GDScript, SQL, RegEx
+OOP, Event-driven programming, Unit Testing, MVVM, MVC, Databases, REST API, CI/CD, AsciiDoc
+icon:hackerrank[]https://www.hackerrank.com/certificates/286247c13c0e[Problem solving], Penetration testing, Linux, Blender, English (C2), Turkish (Native), French (B1)
+// icon:hackerrank[]https://www.hackerrank.com/certificates/286247c13c0e[Problem solving], Penetration testing, Windows, Linux, Blender, Maya, Electronics, Arduino
+// English (C2), Turkish (Native), French (B1), Public Speaking, Translation, Interpreting, Localization
+
+
+|== Relevant Projects
+|[frame=none,grid=none,cols="8a,>1"]
+!===
+
+!{empty}
+include::projects/ProjectTulip.adoc[]
+
+!{empty}
+include::projects/PR-qBittorrent.adoc[]
+
+!{empty}
+include::projects/DHApp.adoc[]
+
+// !{empty}
+// include::projects/HackTheBox.adoc[]
+
+!===
+
+
+|== Other Projects
+|[frame=none,grid=none,cols="8a,>1"]
+!===
+
+!{empty}
+include::projects/WeMeetAgain.adoc[]
+
+!{empty}
+include::projects/TreasureHunters.adoc[]
+
+// !{empty}
+// include::projects/Lockpicking.adoc[]
+
+// !{empty}
+// include::projects/ZooqleNet.adoc[]
+
+!{empty}
+include::projects/AuraxisNet.adoc[]
+
+// !{empty}
+// include::projects/Electronics.adoc[]
+
+!===
+
+
+|== Education
+|[frame=none,grid=none,cols="8a,>1"]
+!===
+
+!{empty}
+include::education/Halic.adoc[]
+
+!{empty}
+include::education/KMU.adoc[]
+
+!{empty}
+include::education/MRU.adoc[]
+
+!===
+
+
+|===
