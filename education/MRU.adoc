@@ -1,0 +1,4 @@
+*Exchange Study* at Mykolas Romeris University (_Vilnius, Lithuania_) +
+_Courses_: Game Design, Game Scenario & Level Design, Data Structures & Algorithms, 3D Modeling, 3D Maya Fundamentals +
+_Skills_: Unity, C#, Python, Game Design, Autodesk Maya, Teamwork
+! 2022

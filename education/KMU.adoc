@@ -1,0 +1,4 @@
+*Exchange Study* at Keimyung University (_Daegu, South Korea_) +
+_Courses_: 3D Game Basics, Game AI, {cpp} Programming, ML Theory +
+_Skills_: Unity, C#, {cpp}, Python, Teamwork, Public Speaking
+! 2023
